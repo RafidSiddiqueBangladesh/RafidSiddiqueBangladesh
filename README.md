@@ -1,7 +1,7 @@
 
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://github.com/RafidSiddiqueBangladesh/simpleserver/blob/main/Screenshot%202025-08-27%20111040.png" alt="Rafid Siddique Banner" width="100%">
+  <img src="https://github.com/RafidSiddiqueBangladesh/rafidsiddique/blob/main/Screenshot%202025-08-27%20221329.png" alt="Rafid Siddique Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Rafid Siddique</h1>
